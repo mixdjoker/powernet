@@ -10,7 +10,7 @@ To ensure wired Ethernet connectivity, the [`Orange Pi Expansion Board`]() is us
 
 ## Analog Signal Digitization
 
-For acquiring data from analog sensors, the [`ADS1115 16-Bit 16-Byte 4-Channel I2C IIC Analog-to-Digital ADC Converter with PGA`]() is used. This module supports 4 channels, allowing multiple sensors to be connected simultaneously, and provides accurate analog signal measurements with **16-bit** resolution.
+For acquiring data from analog sensors, the [`ADS1115 16-Bit 4-Channel IIC ADC Converter with PGA`]() is used. This module supports 4 channels, allowing multiple sensors to be connected simultaneously, and provides accurate analog signal measurements with **16-bit** resolution.
 
 ## Sensors for Measuring AC Current
 
