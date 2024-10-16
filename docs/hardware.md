@@ -2,11 +2,11 @@
 
 ## Main Computational Module
 
-For this project, the [`Orange Pi Zero 2W`]() with **4GB LPDDR4** has been selected as the main computational module. This single-board computer, based on the [`Allwinner H618 (ARM Cortex-A53)`]() processor, is an optimal choice due to its performance and energy efficiency. The module supports both wireless and wired communication interfaces, making it versatile for a variety of applications.
+For this project, the [`Orange Pi Zero 2W`](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-Zero-2W.html) with **4GB LPDDR4** has been selected as the main computational module. This single-board computer, based on the [`Allwinner H618 (ARM Cortex-A53)`](https://gadgetversus.com/processor/allwinner-h618-specs/) processor, is an optimal choice due to its performance and energy efficiency. The module supports both wireless and wired communication interfaces, making it versatile for a variety of applications.
 
 ## Wired Ethernet Connection
 
-To ensure wired Ethernet connectivity, the [`Orange Pi Expansion Board`]() is used, providing speeds of up to **100Mbps**. This expansion also offers additional ports to enhance the system’s functionality.
+To ensure wired Ethernet connectivity, the [`Orange Pi Expansion Board`](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/2W-expansion-board.html) is used, providing speeds of up to **100Mbps**. This expansion also offers additional ports to enhance the system’s functionality.
 
 ## Analog Signal Digitization
 
