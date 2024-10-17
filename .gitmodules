@@ -1,0 +1,3 @@
+[submodule "circuit-design"]
+	path = circuit-design
+	url = https://github.com/mixdjoker/powernet-circuit-design
